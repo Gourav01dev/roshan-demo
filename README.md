@@ -33,7 +33,7 @@ This React application fetches a list of users from an API and displays them in 
 
    ```bash
    git clone https://github.com/Gourav01dev/roshan-demo.git
-   cd roshn-frontend
+   cd roshan-demo
 
 ### `npm run dev`
 
